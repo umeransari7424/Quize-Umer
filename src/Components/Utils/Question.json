@@ -1,0 +1,47 @@
+[
+    {
+        "text": "Who is newly Appointed DG ISPR of Pakistan Army?",
+        "options": [
+          { "id": 0, "text": "Lt General Asim Saleem Bajwa", "isCorrect": false },
+          { "id": 1, "text": "Major General Babar Iftikhar", "isCorrect": false },
+          { "id": 2, "text": "Major General Waheed Arshad", "isCorrect": false },
+          { "id": 3, "text": "Major General Ahmed Sharif ", "isCorrect": true }
+        ]
+      },
+      {
+        "text": "In which of the following city Imran Khan was attacked?",
+        "options": [
+          { "id": 0, "text": "Gujranwala", "isCorrect": false },
+          { "id": 1, "text": "Waziristan", "isCorrect": false },
+          { "id": 2, "text": "Wazirabad", "isCorrect": true },
+          { "id": 3, "text": "None of These", "isCorrect": false }
+        ]
+      },
+      {
+        "text": "Who is the Current Captain of Pakistan Woman Cricket Team ?",
+        "options": [
+          { "id": 0, "text": " Bismah Maroof", "isCorrect": true },
+          { "id": 1, "text": " Javeria Khan", "isCorrect": false },
+          { "id": 2, "text": "Sana Mir ", "isCorrect": false },
+          { "id": 3, "text": "None of these", "isCorrect": false }
+        ]
+      },
+      {
+        "text": "What is the rank of Pakistan in Global Innovation Index 2022?",
+        "options": [
+          { "id": 0, "text": "80", "isCorrect": false },
+          { "id": 1, "text": "87", "isCorrect": true },
+          { "id": 2, "text": "85", "isCorrect": false },
+          { "id": 3, "text": "90", "isCorrect": false }
+        ]
+      },
+      {
+        "text": "Current Governor Sindh is _______________?",
+        "options": [
+          { "id": 0, "text": "Imran Ismail", "isCorrect": false },
+          { "id": 1, "text": " Nasreen Jalil", "isCorrect": false },
+          { "id": 2, "text": "Kamran Tessori", "isCorrect": true },
+          { "id": 3, "text": "Murad Saeed", "isCorrect": false }
+        ]
+      }
+]
